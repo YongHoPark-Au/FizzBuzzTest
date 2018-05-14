@@ -1,0 +1,11 @@
+C:\Users\JAKE\source\repos\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\FizzBuzz.Library.Test.dll
+C:\Users\JAKE\source\repos\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\FizzBuzz.Library.Test.pdb
+C:\Users\JAKE\source\repos\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\FizzBuzz.Library.dll
+C:\Users\JAKE\source\repos\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\nunit.framework.dll
+C:\Users\JAKE\source\repos\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\FizzBuzz.Library.pdb
+C:\Users\JAKE\source\repos\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\nunit.framework.xml
+C:\Users\JAKE\source\repos\FizzBuzz\FizzBuzz.Library.Test\obj\Debug\FizzBuzz.Library.Test.csprojResolveAssemblyReference.cache
+C:\Users\JAKE\source\repos\FizzBuzz\FizzBuzz.Library.Test\obj\Debug\FizzBuzz.Library.Test.csproj.CoreCompileInputs.cache
+C:\Users\JAKE\source\repos\FizzBuzz\FizzBuzz.Library.Test\obj\Debug\FizzBuzz.Library.Test.csproj.CopyComplete
+C:\Users\JAKE\source\repos\FizzBuzz\FizzBuzz.Library.Test\obj\Debug\FizzBuzz.Library.Test.dll
+C:\Users\JAKE\source\repos\FizzBuzz\FizzBuzz.Library.Test\obj\Debug\FizzBuzz.Library.Test.pdb
